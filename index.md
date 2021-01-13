@@ -1,5 +1,22 @@
 ## Welcome to GitHub Pages
 
+I'm a senior math major at Carleton College with a passion for software development and mathematics.
+
+My interest for these fields derive from excitement for...
+
+- Organizing a theory into its constituent parts while investigating dependencies between these parts.
+    - Using clean logical syntax to make organizational (i.e. algebraic) statements.
+- Generalizing intuitions about space and motion into beautiful general theories. 
+
+The "beautiful general theories" from the second bullet point are to me synonomyous with the field of [*differential geometry*](https://en.wikipedia.org/wiki/Differential_geometry), especially the topic of *differential forms*. I have written a textbook which develops the theory of differential forms and applies them to problems in computer graphics.
+
+
+I written a textbook about differential geometry
+
+- the generalized Stokes' theorem in particular- in mind here. I have written a [textbook](https://github.com/rossgk2/tensors__differential_forms__computer_graphics) which 
+
+, I enjoy programming and software development for the ability they give me to see abstract ideas from math or physics come to life. I feel that doing quality OOP programming draws on the same thinking as abstract mathematics, and really enjoy OOP for this reason. 
+
 You can use the [editor on GitHub](https://github.com/rossgk2/home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
