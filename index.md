@@ -4,7 +4,7 @@ I'm a senior math major at Carleton College, graduating in March 2021, with a pa
 
 My interest for these fields derive from excitement for...
 
-- Organizing a theory into its constituent parts while investigating dependencies between these parts.
+- Organizing a theory (such as a program!) into its constituent parts while investigating dependencies between these parts.
     - Using clean logical syntax to make organizational (i.e. algebraic) statements.
 - Generalizing intuitions about space and motion into beautiful general theories. 
 
