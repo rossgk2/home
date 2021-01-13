@@ -8,7 +8,7 @@ My interest for these fields derive from excitement for...
     - Using clean logical syntax to make organizational (i.e. algebraic) statements.
 - Generalizing intuitions about space and motion into beautiful general theories. 
 
-The first bullet point encapsulates why I enjoy software development so much: software development is the *art* of organization. I especially like object oriented programming for the style of thinking it promotes.
+The first bullet point encapsulates why I enjoy software development so much: software development is the *art* of organization. I especially like object oriented programming, as it promotes a modular way of thinking.
 
 The "beautiful general theories" from the second bullet point are to me synonomyous with the field of [*differential geometry*](https://en.wikipedia.org/wiki/Differential_geometry), especially the topic of *differential forms*. For my senior math thesis, I wrote a [textbook](https://github.com/rossgk2/tensors__differential_forms__computer_graphics) which develops the theory of differential forms and applies them to problems in computer graphics.
 
