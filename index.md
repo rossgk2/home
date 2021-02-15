@@ -1,8 +1,8 @@
 ## Ross Grogan-Kaylor
 
-I'm a senior math major at Carleton College, graduating in March 2021, with a passion for software development and mathematics.
+I'm a senior math major at Carleton College, graduating in March 2021, with a passion for software development and mathematics. I have recently been working on [a program called "masks2Contours"](https://github.com/rossgk2/masks2Contours) for a joint research group between the University of Michigan and King's College London.
 
-My interest for these fields derive from excitement for...
+My interest for software development and mathematics derives from excitement for...
 
 - Organizing a theory (such as a program) into its constituent parts while investigating dependencies between these parts.
     - Using clean logical syntax to make organizational (i.e. algebraic) statements.
